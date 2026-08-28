@@ -1,0 +1,175 @@
+{
+  "name": "Dheja Daruna Panjalu",
+  "title": "QA Engineer",
+  "tagline": "Building trust in software, one test at a time.",
+  "location": "Jakarta, Indonesia",
+  "email": "dhejadaruna@gmail.com",
+  "socials": {
+    "linkedin": "https://linkedin.com/in/dheja-daruna",
+    "github": "https://github.com/justdheja",
+    "instagram": "https://instagram.com/justdheja",
+    "resumeUrl": "#"
+  },
+  "summary": "QA Engineer with over 4 years of experience in high-growth tech environments, including Shopee (Sea Labs) and Astra Life. Expert in designing and scaling automated testing frameworks for Microservices and high-traffic features. Proven track record in AI-driven testing and collaborating with international teams (Singapore/Shenzhen). Strong background in CI/CD integration, API testing, and Automation Testing using Python, Playwright, Selenium, and Robot Framework.",
+  "highlights": [
+    {
+      "value": "4+",
+      "label": "Years Experience"
+    },
+    {
+      "value": "100+",
+      "label": "Tested Projects"
+    },
+    {
+      "value": "3",
+      "label": "Countries Collaborated"
+    },
+    {
+      "value": "100+",
+      "label": "Automated Test Suites Shipped"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": [
+        "SQL",
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "category": "Automation Frameworks",
+      "items": [
+        "Playwright",
+        "Selenium",
+        "Robot Framework"
+      ]
+    },
+    {
+      "category": "Testing Types",
+      "items": [
+        "API Testing",
+        "E2E Testing",
+        "Regression Testing",
+        "AI-Driven Testing"
+      ]
+    },
+    {
+      "category": "CI/CD & Tools",
+      "items": [
+        "Jenkins",
+        "GitLab CI",
+        "Docker",
+        "Git",
+        "Postman",
+        "JIRA"
+      ]
+    },
+    {
+      "category": "Architecture",
+      "items": [
+        "Microservices",
+        "gRPC",
+        "REST APIs"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Shopee (Sea Labs)",
+      "role": "QA Engineer",
+      "period": "2024 — Present",
+      "location": "Jakarta, Indonesia",
+      "bullets": [
+        "Owned end-to-end quality for the PDP and Rating features, building comprehensive test suites and managing the full bug/defect lifecycle with data-driven prioritization to maintain a high bar for product stability.",
+        "QA in charge of backend automation regression, streamlining weekly cycles and cutting manual overhead for production releases, while driving broader adoption of internal QA and AI-assisted testing tools to accelerate test generation, execution, and analysis across the Cart/PDP/Rating team.",
+        "Collaborated cross-functionally with engineering and product stakeholders across Singapore and Shenzhen to uphold consistent quality standards in a distributed, international environment."
+      ]
+    },
+    {
+      "company": "Astra Life",
+      "role": "QA Engineer",
+      "period": "2023 — 2024",
+      "location": "Jakarta, Indonesia (Hybrid)",
+      "bullets": [
+        "Spearheaded the adoption of automation testing from the ground up, establishing a modern QA culture and owning end-to-end automation efforts across the team.",
+        "Designed, implemented, and maintained a robust CI automation pipeline on GitLab, while developing and refining test scripts in Python (Selenium) and Robot Framework.",
+        "Partnered closely with Business Analysts to translate their requirements into effective automated test coverage, ensuring quality was built into every stage of delivery."
+      ]
+    },
+    {
+      "company": "KitaLulus",
+      "role": "Junior QA Engineer",
+      "period": "2022 — 2023",
+      "location": "Jakarta, Indonesia (Remote)",
+      "bullets": [
+        "Expanded automation test coverage while mentoring fellow QA engineers in developing their own automation scripts, strengthening the team's overall testing capability.",
+        "Led scrum rituals for the QA Automation Squad, driving sprint planning and execution.",
+        "Served as code reviewer for the automation script codebase, upholding code quality and consistency across the team."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Review Submission Revamp",
+      "description": "Implement new design and experience for review submission page to increase review adoption after buyer buy an item.",
+      "tags": [
+        "Postman",
+        "E2E Testing",
+        "UI Testing",
+        "API Testing",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Review Summary",
+      "description": "Introduced new review summary inside the Product Details Page in Shopee mobile app.",
+      "tags": [
+        "Postman",
+        "E2E Testing",
+        "UI Testing",
+        "API Testing",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Robot Framework and Selenium Regression Suite",
+      "description": "Build from scratch a modern automation culture to Astra Life QA Team",
+      "tags": [
+        "Robot Framework",
+        "Selenium",
+        "Python"
+      ]
+    },
+    {
+      "name": "Video Top Section in Review Landing Page",
+      "description": "New aggregated reviews and KOL's videos section to make user easily discover the product reviews.",
+      "tags": [
+        "AI-driven testing",
+        "API Testing",
+        "Playwright",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Robot Framework and Selenium Regression Suite",
+      "description": "Build from scratch a modern automation culture to Astra Life QA Team",
+      "tags": [
+        "Robot Framework",
+        "Selenium",
+        "Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Universitas Gadjah Mada",
+      "degree": "B.Eng. in Information Technology GPA: 3.45",
+      "period": "2018 — 2022"
+    }
+  ],
+  "certifications": [
+    "Mamicamp Front-end Class 2020"
+  ]
+}

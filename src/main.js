@@ -55,7 +55,7 @@ app.innerHTML = `
       <h1>${esc(data.name)}</h1>
       <p class="tagline">${esc(data.tagline)}</p>
       <div class="hero-actions">
-        <a class="btn btn-primary" href="${esc(data.socials.resumeUrl)}">Download CV</a>
+        <a class="btn btn-primary" href="${esc(data.socials.resumeUrl)}" download="${esc(data.name)} - CV.pdf">Download CV</a>
         <a class="btn btn-secondary" href="#contact">Get in touch</a>
       </div>
     </div>

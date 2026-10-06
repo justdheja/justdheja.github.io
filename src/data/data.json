@@ -52,6 +52,7 @@
         "API Testing",
         "E2E Testing",
         "Regression Testing",
+        "Automation Testing",
         "AI-Driven Testing"
       ]
     },
@@ -59,6 +60,7 @@
       "category": "CI/CD & Tools",
       "items": [
         "Jenkins",
+        "Github Actions",
         "GitLab CI",
         "Docker",
         "Git",
@@ -153,12 +155,12 @@
       ]
     },
     {
-      "name": "Robot Framework and Selenium Regression Suite",
-      "description": "Build from scratch a modern automation culture to Astra Life QA Team",
+      "name": "Rosario Yuk",
+      "description": "Build from scratch an online Rosary Prayer App",
       "tags": [
-        "Robot Framework",
-        "Selenium",
-        "Python"
+        "Vibe Coding",
+        "JavaScript",
+        "Vite"
       ]
     }
   ],

@@ -1,7 +1,7 @@
 {
   "name": "Dheja Daruna Panjalu",
   "title": "QA Engineer",
-  "tagline": "Building trust in software, one test at a time.",
+  "tagline": "I build the automation that lets teams ship fast without breaking things.",
   "location": "Jakarta, Indonesia",
   "email": "dhejadaruna@gmail.com",
   "socials": {
@@ -14,19 +14,19 @@
   "highlights": [
     {
       "value": "4+",
-      "label": "Years Experience"
+      "label": "Years in QA"
     },
     {
       "value": "100+",
-      "label": "Tested Projects"
+      "label": "Features tested"
     },
     {
       "value": "3",
-      "label": "Countries Collaborated"
+      "label": "Countries collaborated"
     },
     {
       "value": "100+",
-      "label": "Automated Test Suites Shipped"
+      "label": "Automated suites shipped"
     }
   ],
   "skills": [
@@ -60,7 +60,7 @@
       "category": "CI/CD & Tools",
       "items": [
         "Jenkins",
-        "Github Actions",
+        "GitHub Actions",
         "GitLab CI",
         "Docker",
         "Git",
@@ -115,7 +115,7 @@
   "projects": [
     {
       "name": "Review Submission Revamp",
-      "description": "Implement new design and experience for review submission page to increase review adoption after buyer buy an item.",
+      "description": "Redesigned the review submission flow to lift review adoption after a buyer receives an item.",
       "tags": [
         "Postman",
         "E2E Testing",
@@ -126,7 +126,7 @@
     },
     {
       "name": "Review Summary",
-      "description": "Introduced new review summary inside the Product Details Page in Shopee mobile app.",
+      "description": "Introduced an AI-generated review summary on the Product Detail Page in the Shopee mobile app.",
       "tags": [
         "Postman",
         "E2E Testing",
@@ -137,7 +137,7 @@
     },
     {
       "name": "Robot Framework and Selenium Regression Suite",
-      "description": "Build from scratch a modern automation culture to Astra Life QA Team",
+      "description": "Built a modern automation culture from scratch for the Astra Life QA team.",
       "tags": [
         "Robot Framework",
         "Selenium",
@@ -145,10 +145,10 @@
       ]
     },
     {
-      "name": "Video Top Section in Review Landing Page",
-      "description": "New aggregated reviews and KOL's videos section to make user easily discover the product reviews.",
+      "name": "Video Top Section, Review Landing Page",
+      "description": "New section aggregating reviews and KOL videos so users can discover product reviews faster.",
       "tags": [
-        "AI-driven testing",
+        "AI-Driven Testing",
         "API Testing",
         "Playwright",
         "Microservices"
@@ -156,7 +156,7 @@
     },
     {
       "name": "Rosario Yuk",
-      "description": "Build from scratch an online Rosary Prayer App",
+      "description": "Built from scratch an online Rosary prayer app.",
       "tags": [
         "Vibe Coding",
         "JavaScript",
@@ -167,8 +167,9 @@
   "education": [
     {
       "school": "Universitas Gadjah Mada",
-      "degree": "B.Eng. in Information Technology GPA: 3.45",
-      "period": "2018 — 2022"
+      "degree": "B.Eng. in Information Technology",
+      "period": "2018 — 2022",
+      "note": "GPA 3.45"
     }
   ],
   "certifications": [

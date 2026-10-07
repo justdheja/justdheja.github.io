@@ -10,7 +10,7 @@
     "instagram": "https://instagram.com/justdheja",
     "resumeUrl": "/data/cv.pdf"
   },
-  "summary": "QA Engineer with over 4 years of experience in high-growth tech environments, including Shopee (Sea Labs) and Astra Life. Expert in designing and scaling automated testing frameworks for Microservices and high-traffic features. Proven track record in AI-driven testing and collaborating with international teams (Singapore/Shenzhen). Strong background in CI/CD integration, API testing, and Automation Testing using Python, Playwright, Selenium, and Robot Framework.",
+  "summary": "QA engineer with 4+ years at Shopee (Sea Labs), Astra Life and KitaLulus. I build automated test frameworks for microservices and high-traffic features, wire them into CI/CD, and work daily with teams in Singapore and Shenzhen. My stack is Python, Playwright, Selenium and Robot Framework, plus AI-assisted testing where it saves time.",
   "highlights": [
     {
       "value": "4+",
@@ -84,9 +84,10 @@
       "period": "2024 — Present",
       "location": "Jakarta, Indonesia",
       "bullets": [
-        "Owned end-to-end quality for the PDP and Rating features, building comprehensive test suites and managing the full bug/defect lifecycle with data-driven prioritization to maintain a high bar for product stability.",
-        "QA in charge of backend automation regression, streamlining weekly cycles and cutting manual overhead for production releases, while driving broader adoption of internal QA and AI-assisted testing tools to accelerate test generation, execution, and analysis across the Cart/PDP/Rating team.",
-        "Collaborated cross-functionally with engineering and product stakeholders across Singapore and Shenzhen to uphold consistent quality standards in a distributed, international environment."
+        "I own quality for the PDP and Rating features: test suites, bug triage and prioritisation, and the full defect lifecycle.",
+        "I run backend automation regression for the Cart/PDP/Rating team. That cut manual work in the weekly production release cycle.",
+        "I push the team toward internal QA tools and AI-assisted testing for generating, running and analysing tests.",
+        "I work with engineers and product across Singapore and Shenzhen to keep quality standards consistent."
       ]
     },
     {
@@ -95,9 +96,9 @@
       "period": "2023 — 2024",
       "location": "Jakarta, Indonesia (Hybrid)",
       "bullets": [
-        "Spearheaded the adoption of automation testing from the ground up, establishing a modern QA culture and owning end-to-end automation efforts across the team.",
-        "Designed, implemented, and maintained a robust CI automation pipeline on GitLab, while developing and refining test scripts in Python (Selenium) and Robot Framework.",
-        "Partnered closely with Business Analysts to translate their requirements into effective automated test coverage, ensuring quality was built into every stage of delivery."
+        "I introduced automation testing to the team from scratch and owned the automation effort end to end.",
+        "I built and maintained the CI pipeline on GitLab, and wrote test scripts in Python (Selenium) and Robot Framework.",
+        "I worked with Business Analysts to turn requirements into automated test coverage."
       ]
     },
     {
@@ -106,9 +107,9 @@
       "period": "2022 — 2023",
       "location": "Jakarta, Indonesia (Remote)",
       "bullets": [
-        "Expanded automation test coverage while mentoring fellow QA engineers in developing their own automation scripts, strengthening the team's overall testing capability.",
-        "Led scrum rituals for the QA Automation Squad, driving sprint planning and execution.",
-        "Served as code reviewer for the automation script codebase, upholding code quality and consistency across the team."
+        "I expanded automation coverage and mentored other QA engineers on writing their own scripts.",
+        "I ran scrum for the QA Automation Squad: sprint planning and execution.",
+        "I reviewed code for the automation codebase."
       ]
     }
   ],

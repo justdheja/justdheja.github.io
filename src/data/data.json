@@ -88,6 +88,11 @@
         "I run backend automation regression for the Cart/PDP/Rating team. That cut manual work in the weekly production release cycle.",
         "I push the team toward internal QA tools and AI-assisted testing for generating, running and analysing tests.",
         "I work with engineers and product across Singapore and Shenzhen to keep quality standards consistent."
+      ],
+      "tags": [
+        "Regression",
+        "AI-Assisted Testing",
+        "API Testing"
       ]
     },
     {
@@ -99,6 +104,11 @@
         "I introduced automation testing to the team from scratch and owned the automation effort end to end.",
         "I built and maintained the CI pipeline on GitLab, and wrote test scripts in Python (Selenium) and Robot Framework.",
         "I worked with Business Analysts to turn requirements into automated test coverage."
+      ],
+      "tags": [
+        "Selenium",
+        "Robot Framework",
+        "GitLab CI"
       ]
     },
     {
@@ -110,6 +120,11 @@
         "I expanded automation coverage and mentored other QA engineers on writing their own scripts.",
         "I ran scrum for the QA Automation Squad: sprint planning and execution.",
         "I reviewed code for the automation codebase."
+      ],
+      "tags": [
+        "Automation",
+        "Mentoring",
+        "Code Review"
       ]
     }
   ],
